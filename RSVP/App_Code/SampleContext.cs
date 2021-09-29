@@ -16,4 +16,3 @@ public class SampleContext : DbContext
     public DbSet<GuestResponse> GuestResponses { get; set; }
     public DbSet<Report> Reports { get; set; }
 }
-}

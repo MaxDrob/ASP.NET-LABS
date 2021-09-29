@@ -4,9 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Data.Entity;
 
-/// <summary>
-/// Summary description for GuestResponse
-/// </summary>
+
 public class GuestResponse
 {
     public int GuestResponseId { get; set; }
