@@ -25,4 +25,9 @@ public partial class Reg : System.Web.UI.Page
             }
         }
     }
+
+    protected void CheckBoxYN_CheckedChanged(object sender, EventArgs e)
+    {
+
+    }
 }
